@@ -120,10 +120,3 @@ Through this project, I gained hands-on experience in:
 - Data Quality Improvement
 
 ---
-
-## 👤 Author
-
-**Shrilakshmi N K**
-
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
