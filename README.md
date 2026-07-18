@@ -70,3 +70,5 @@ Output: a single enriched, dashboard-ready dataset (`layoffs_master_enriched_fin
 - Incorporate a second dataset (e.g., stock performance or hiring data) to test whether layoffs preceded or followed other business signals
 - Automate the SQL → Python → Power BI refresh pipeline
 - Add a predictive model estimating layoff likelihood/severity from company attributes
+
+<img width="787" height="440" alt="image" src="https://github.com/user-attachments/assets/e88a9a5f-d315-44bb-8002-324c6dcce013" />
